@@ -40,12 +40,6 @@ h1 {
   transition: background-color 0.3s, box-shadow 0.3s;
 }
 
-.buttons-container {
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-}
-
 .timer {
   display: flex;
   justify-content: center;
